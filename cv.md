@@ -1,5 +1,4 @@
-# Name:
-    Siarhei Belausau
+# Siarhei Belausau
 
 # Contacts:
     email:  poketa@tut.by

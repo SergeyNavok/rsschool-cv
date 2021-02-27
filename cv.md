@@ -1,9 +1,9 @@
 ## Siarhei Belausau
 
 ### Contacts:
-    * email:  poketa@tut.by
-    * telegram: @SergeyNavok
-    * skype: sergey_navok
+    - email:  poketa@tut.by
+    - telegram: @SergeyNavok
+    - skype: sergey_navok
 
 ### Symmary:
     Get a good knowledge base to become part of the team in the future

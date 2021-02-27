@@ -18,7 +18,7 @@ Studying: C/C++, JavaScript, HTML, CSS, SCSS.
     --
 
 ### Education
-    I'm taking courses in IT CLASS from 09.2020 to 09.2021
+I'm taking courses in IT CLASS from 09.2020 to 09.2021
 
 ### English
 A1 level of English

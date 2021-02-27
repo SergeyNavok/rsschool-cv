@@ -6,7 +6,7 @@
 - __skype__: sergey_navok
 
 ### Symmary:
-    Get a good knowledge base to become part of the team in the future
+Get a good knowledge base to become part of the team in the future.
 
 ### Skills:
     Studying: C/C++, JavaScript, HTML, CSS, SCSS.

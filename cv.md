@@ -1,25 +1,25 @@
-Name:
+# Name:
     Siarhei Belausau
 
-Contacts:
+# Contacts:
     email:  poketa@tut.by
     telegram: @SergeyNavok
     skype: sergey_navok
 
-Symmary:
+# Symmary:
     Get a good knowledge base to become part of the team in the future
 
-Skills:
+# Skills:
     Studying: C/C++, JavaScript, HTML, CSS, SCSS.
 
-Code samples:
+# Code samples:
     --
 
-Experience:
+# Experience:
     --
 
-Education
+# Education
     I'm taking courses in IT CLASS from 09.2020 to 09.2021
 
-English
+# English
 A1 level of English
